@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A cleare vindication of Roman Catholicks from a fowle aspersion to wit, that they have and do promote a bloody and wicked designe of the Pope and cardinals.</title>
+            <author>Franciscus a Sancta Clara, 1598-1680.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37197</idno><idno type="EEBO-CITATION">13109341</idno>
+  <idno type="VID">97597</idno>
+  <idno type="EEBO-PROQUEST">2240862189</idno>
+  
+            <idno type="STC">Wing D351</idno>
+            <idno type="STC">ESTC R8993</idno>
+            <idno type="OCLC">13109341</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A37197)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97597)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 413:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A cleare vindication of Roman Catholicks from a fowle aspersion to wit, that they have and do promote a bloody and wicked designe of the Pope and cardinals.</title>
+                  <author>Franciscus a Sancta Clara, 1598-1680.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Francis Davenport [i.e., Franciscus a Sancta Clara]. Cf. Halkett &amp; Laing (2nd ed.).</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Catholics --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97597:1"/>
+            <pb facs="tcp:97597:1"/>
+            <p>A Cleare VINDICATION OF ROMAN CATHOLICKS FROM A Fowle Aspersion: To Wit, <hi>That they have and do promote a bloody and wicked Designe of the</hi> Pope <hi>and</hi> Cardinals.</p>
+            <p>
+               <hi>Printed in the yeer</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:97597:2"/>
+            <pb n="3" facs="tcp:97597:2"/>
+            <head>A clear Vindication of Roman <hi>Catholicks,</hi> &amp;c.</head>
+            <p>THere hath been and at present is, much noise that Roman Catholicks have a long time, and still do drive on a design of reducing the three Nations under the yoke and power of <hi>Rome,</hi> and for the easier and surer effecting thereof, that they have a dis<g ref="char:EOLhyphen"/>pensation from the Pope to dissemble and de<g ref="char:EOLhyphen"/>ny their Religion, to professe any other, so to pack Parliament and Army, to make and head Sects, whereby to set up, and pull down whom<g ref="char:EOLhyphen"/>soever shall seem to advance or hinder the work, be he King or other; and that in order hereto, the late King was sentenced to loose his head. At first I lookt upon this noise as a piece of discontent or malice as well by reason of its strangenesse, as in regard I observed the abetters of it to be either mean, prejudiced, or easie of belief: but seing it lately confirmed by two sober and eminent persons, Mr. <hi>Prynne</hi> in his good Old Cause, and Mr. <hi>Backster</hi> in his key for Catholick<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, I began to suspect the worst
+<pb n="4" facs="tcp:97597:3"/> yet suspended my judgment, charity forbi<g ref="char:EOLhyphen"/>ding to judge any unheard. At length suspici<g ref="char:EOLhyphen"/>on breeding curiosity and desire to sound this noise to the bottome, I made means to eonverse with the party concerned in it, and not long after lighting on the chief, both of their Laity and Clergy: I took occasion to speak of the report went of them. They all protested as they were Christians, that it was a black ma<g ref="char:EOLhyphen"/>litious slander raised by their adversaries to ren<g ref="char:EOLhyphen"/>der them odious to the end to bereave them at pleasure, of their liberties, fortunes, and lives, for hated, persons they know are fitted for the lash of ambition, covetuousness and fury. I expected some plausible excuse, but meeting with a flat denial I grew at a losse what to reply having not any proof to offer. Wherat they said, <hi>Sir</hi> your silence gives us, you have not any proof for this report, wherefore we may and do claim the just priviledge graunted by the law to all, which is to be esteemed innocent and treated as such until proof comes to make good the charge. But <hi>Sir,</hi> for your further satisfaction we will prove our innocence, first because this pretended practise, as to the King, was inconsi<g ref="char:EOLhyphen"/>stent with our interest, for albeit he was of a different judgment, nevertheless being satisfied our principles were agreeable with all sorts of governments, that we were loyal and harmless subjects; he afforded us a good and hansome being, now the removal of him we could not but see, would worse our condition by delive<g ref="char:EOLhyphen"/>ring us up to hands we had no assurance of, more
+<pb n="5" facs="tcp:97597:3"/> then hard usage as we have since found by woful experience: next, this pretended pra<g ref="char:EOLhyphen"/>ctise is against our Religion, which teacheth o<g ref="char:EOLhyphen"/>bedience to all superiours lawful commands, and that under pain of sin and damnation, disallow<g ref="char:EOLhyphen"/>eth doing even the least hurt, though it were certain the greatest good should come thereof and is not sin a hurt, and what sins greater then rebellion, murther, denying ones Religion, and professing contrary? neither can raising a mist from eighty eight, or the Gunpowder plot, any<g ref="char:EOLhyphen"/>wise darken her brightness, or blemish her beau<g ref="char:EOLhyphen"/>ty, in as much as those were clear effects of interest and passion which she makes her busi<g ref="char:EOLhyphen"/>ness to check and restrain. True it is, that con<g ref="char:EOLhyphen"/>ceiving our Religion to be safest and best, we hold it charity to impart, and reason it to o<g ref="char:EOLhyphen"/>thers, but that we go about to propagate it by violent and unworthy means, is so false, that we abhor and detest the very thought of it: then had we such a dispensation, sure we would make advantage of it by saving or advanceing our selves which every one may see we do not: moreover if the Parliament and Army be pack<g ref="char:EOLhyphen"/>ed by us, clearly they are at our devotion and disposal; if so, what senselesse fools must we be to suffer them to give liberty to all, and refuse it to us to keep up others rights, &amp; let ours fall to the ground. Last of all, to stop the mouth of iniquity it self, we call God to wit<g ref="char:EOLhyphen"/>ness, that we verily believe ther is not in the Pope any power to graunt any such dispensati<g ref="char:EOLhyphen"/>on, and if any such dare at any time shew its face
+<pb n="6" facs="tcp:97597:4"/> we declare to all the world that it is a meer for<g ref="char:EOLhyphen"/>gery and impostor, which diserves no lesse then to be burnt by the publick hand of the Hang<g ref="char:EOLhyphen"/>man; as a seditious and infamous libel. It will be instanced that upon account of this dis<g ref="char:EOLhyphen"/>pensation, one in New-castle became a Jew, was circumcised, another in <hi>London</hi> upon the same score preach't among the Quakers in a millers habit; still this is but saying we require proof: now to shew our confidence none can be brought, we make this fair offer, if any be produced out of the Parliament, Army, or sectaries that can make it out he really hath any such dispensation, we shall be content to indure the sadest doom envy or malice can censure us to; but if this be impossible as we are sure it is, we leave it to any Christian that hath the least sense of feeling of innocence wronged, to judge whether Mr. <hi>Prynne,</hi> and Mr. <hi>Backster</hi> be not bound by the laws of God and man to make us reparation by undeceiving and disabusing the people, whom they have so highly provoked, and incensed against us by this horrid calumny. It is St. <hi>Augustins</hi> and the Roman Catholick tenet, that what is wrongfully taken away, as to estate or fame, un<g ref="char:EOLhyphen"/>less it be restored, the sin wil never be forgiven, what then shall become of Mr. <hi>Prynne</hi> and Mr. <hi>Backsters</hi> confidence of eternity, so long as they persist, nay glory in their injustice, of detracting without the least remorse or purpose of amend<g ref="char:EOLhyphen"/>ment? Gentlemen, I confesse you have given me full satisfaction, and I am sory for your
+<pb n="7" facs="tcp:97597:4"/> sufferings, and wish it were in my power to right you, but all I can do is to publish as much, which I promise you faithfully I shall not fail to do, and so I take my leave and rest.</p>
+            <closer>
+               <signed>Your thankful and satisfied friend and servant. <hi>L. P.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
